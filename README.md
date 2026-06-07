@@ -11,13 +11,8 @@
 
 ## 🌐 Live Demo
 
-> [Add your Vercel/Netlify Live URL here after deployment]
+> https://endearing-creponne-48cc32.netlify.app/
 
----
-
-## 📸 Screenshots
-
-*(You can add screenshots later)*
 
 ---
 
